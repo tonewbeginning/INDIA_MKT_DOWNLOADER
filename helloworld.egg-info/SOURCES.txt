@@ -1,0 +1,7 @@
+hello.py
+helloworld.egg-info/PKG-INFO
+helloworld.egg-info/SOURCES.txt
+helloworld.egg-info/dependency_links.txt
+helloworld.egg-info/entry_points.txt
+helloworld.egg-info/requires.txt
+helloworld.egg-info/top_level.txt
